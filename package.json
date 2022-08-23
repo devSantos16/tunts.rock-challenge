@@ -1,0 +1,24 @@
+{
+  "name": "tunts.rock-challenge",
+  "version": "1.0.0",
+  "description": "Desafio da Tunts.Rock para vaga de estágio usando JavaScript, NodeJS &amp; REST Countries API",
+  "main": "./js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devSantos16/tunts.rock-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devSantos16/tunts.rock-challenge/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/devSantos16/tunts.rock-challenge#readme",
+  "dependencies": {
+    "excel4node": "^1.8.0",
+    "node-fetch": "2.0"
+  }
+}
